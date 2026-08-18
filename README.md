@@ -15,9 +15,6 @@
 ⦁	Passionate about clean code, performance & problem solving<br>
 ⦁	Regular practice of DSA, SQL & core CS subjects<br><br>
 
-<h3>📊 GitHub Stats:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kulalk441&" alt="kulalk441" /></p>
-
 <h3>📚 Core Computer Science:</h3>
 ⦁	Data Structures & Algorithms<br>
 ⦁	Object-Oriented Programming<br>
